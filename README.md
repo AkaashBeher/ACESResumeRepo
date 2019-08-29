@@ -1,7 +1,7 @@
 # ACESResumeRepo
-A list of resumes from past ACES students to act as a guide for what a good resume looks like. Includes pdfs of resumes as well as LaTeX files to use as templates
+A list of resumes from past ACES students to act as a guide for what a good resume looks like. Includes pdfs of resumes as well as LaTeX files to use as templates.
 
-To open and edit LaTeX files create an Overleaf account, create a new project, and upload the .zip file
+To open and edit LaTeX files create an Overleaf account, create a new project, and upload the .zip file. Feel free to look at the templates avaliable on Overleaf as well!
 
 
 Link to Presentation
